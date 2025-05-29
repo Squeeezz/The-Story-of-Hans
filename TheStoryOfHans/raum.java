@@ -5,4 +5,12 @@ public class raum {
     public String raumBeschreibung;
     public ArrayList<String> raumEvents = new ArrayList<String>();
     public ArrayList<String> raumItems = new ArrayList<String>();
+
+
+
+
+
+
+
+
 }
