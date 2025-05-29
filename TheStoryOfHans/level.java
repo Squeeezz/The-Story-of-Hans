@@ -4,11 +4,13 @@ public class level {
     public int levelErfahrung;
     public int levelMaxErfahrung;
 
+
+
     // Konstruktor
     public level(int level, int levelErfahrung, int levelMaxErfahrung) {
         this.level = level;
         this.levelErfahrung = levelErfahrung;
-        this.levelMaxErfahrung = 100; // Wert für maximale Erfahrung
+        this.levelMaxErfahrung = levelMaxErfahrung; // Wert für maximale Erfahrung
     }
 
     // Wenn man 100 Erfahrungspunkte erreicht steigt man 1 Level auf
@@ -46,7 +48,7 @@ public class level {
         // Erfahrung auf 0 setzen, wenn Level geändert wird
         this.levelErfahrung = 0;
         // Maximale Erfahrung für das neue Level setzen
-        this.levelMaxErfahrung = 100 * (int) Math.pow(2, level - 1);
+        this.levelMaxErfahrung = levelMaxErfahrung * (int) Math.pow(2, level - 1);
     }
 
 }

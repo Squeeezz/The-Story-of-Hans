@@ -6,4 +6,13 @@ public class event {
     public String eventAuswirkungen;
 
 
+    // Konstruktor
+    public event(String eventName, String eventBeschreibung, String eventTyp, String eventAuswirkungen) {
+        this.eventName = eventName;
+        this.eventBeschreibung = eventBeschreibung;
+        this.eventTyp = eventTyp;
+        this.eventAuswirkungen = eventAuswirkungen;
+    }
+
+
 }
