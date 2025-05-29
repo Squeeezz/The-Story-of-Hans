@@ -5,17 +5,17 @@ Wir begleiten den Helden Hans auf seiner Reise durch verschiedene Räume, in den
 Aktuell ist das Projekt in der Planungsphase, aber wir haben bereits eine grobe Vorstellung davon, wie das Spiel aufgebaut sein wird.
 # Projektstruktur:
 
-klasse 1: spiel.java - dort passiert das ganze Game
-klasse 2: spieler.java - dort wird der Spieler erstellt mit allen Attributen
-klasse 3: raeume.java - dort werden alle Räume erstellt sowie die Events zugewiesen
-klasse 4: charakter.java - dort werden alle Charaktere gespeichert mit deren Attributen usw.
-klasse 5: item.java - dort werden alle Items gespeichert mit deren Attributen usw.
-klasse 6: event.java - dort werden alle Events gespeichert mit deren Attributen usw.
-klasse 7: inventar.java - dort wird das Inventar des Spielers verwaltet
-klasse 8: level.java - dort wird das Level-System verwaltet
-klasse 9: kampf.java - dort wird der Kampf-Mechanismus verwaltet
-klasse 10: entscheidung.java - dort werden die Entscheidungen des Spielers gespeichert und ausgewertet
-klasse 11: hilfe.java - dort werden die Hilfefunktionen gespeichert
+klasse 1: spiel.java - dort passiert das ganze Game  
+klasse 2: spieler.java - dort wird der Spieler erstellt mit allen Attributen  
+klasse 3: raeume.java - dort werden alle Räume erstellt sowie die Events zugewiesen  
+klasse 4: charakter.java - dort werden alle Charaktere gespeichert mit deren Attributen usw.  
+klasse 5: item.java - dort werden alle Items gespeichert mit deren Attributen usw.  
+klasse 6: event.java - dort werden alle Events gespeichert mit deren Attributen usw.  
+klasse 7: inventar.java - dort wird das Inventar des Spielers verwaltet  
+klasse 8: level.java - dort wird das Level-System verwaltet  
+klasse 9: kampf.java - dort wird der Kampf-Mechanismus verwaltet  
+klasse 10: entscheidung.java - dort werden die Entscheidungen des Spielers gespeichert und ausgewertet  
+klasse 11: hilfe.java - dort werden die Hilfefunktionen gespeichert  
 
 # Aktueller Stand:
 Das Projekt ist in der Planungsphase und wir haben bereits eine grobe Vorstellung davon, wie das Spiel aufgebaut sein wird.

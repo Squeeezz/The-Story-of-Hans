@@ -114,18 +114,15 @@ Noch zu machen:
 klasse 8: level.java - dort wird das level-system verwaltet
 attribute: level, erfahrung, maxErfahrung
 Erledigt:
-
----------------------------------------
-Noch zu machen:
 - levelUp() - erhöht das Level des Spielers
 - getLevel() - gibt das aktuelle Level des Spielers zurück
 - getErfahrung() - gibt die aktuelle Erfahrung des Spielers zurück
+- getMaxErfahrung() - gibt die maximale Erfahrung für das Level-Up zurück
 - setLevel() - setzt das Level des Spielers
 - setErfahrung() - setzt die Erfahrung des Spielers
-- setMaxErfahrung() - setzt die maximale Erfahrung für das Level-Up
-- getMaxErfahrung() - gibt die maximale Erfahrung für das Level-Up zurück
+---------------------------------------
+Noch zu machen:
 - addErfahrung() - fügt Erfahrung zum aktuellen Level hinzu
-- checkLevelUp() - prüft, ob der Spieler genug Erfahrung für ein Level-Up hat und führt es aus
 
 klasse 9: kampf.java - dort wird der kampf-mechanismus verwaltet
 attribute: lebenspunkte, schaden, schutz
