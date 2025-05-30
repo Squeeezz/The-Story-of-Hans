@@ -6,7 +6,7 @@ Vielen Dank, dass du dich für die Sicherheit von **The Story of Hans** einsetzt
 
 Wenn du eine Sicherheitslücke findest, bitten wir dich, diese **nicht öffentlich** zu melden. Kontaktiere uns stattdessen bitte über folgende E-Mail-Adresse:
 
-**squeeezz.security@gmail.com**
+**Discord: squeeezz**
 
 Bitte gib in deiner Nachricht so viele Details wie möglich an, damit wir das Problem effizient nachvollziehen und beheben können.
 
