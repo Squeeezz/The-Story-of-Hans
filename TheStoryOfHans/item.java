@@ -8,6 +8,7 @@ public class item {
     // TEST ITEM
     public item rostmesser = new item("kleiner roestiger Messer" ," kann schneiden, ist leicht zerbrechbar, ist nicht sehr effektiv im kampf", 2);
 
+    
     // Konstruktor
     public item(String itemName, String itemBeschreibung, int itemWert) {
         this.itemName = itemName;

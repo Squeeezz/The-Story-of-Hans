@@ -13,6 +13,7 @@ public class kampf {
 }
 
 
+
     // schaden system einrichten
     public void schaden(int schaden){
         this.schaden = schaden;
@@ -31,6 +32,7 @@ public class kampf {
                 schutz = lebenspunkte - 1;
 
 
+                
             }
         }
     }
