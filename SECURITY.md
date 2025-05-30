@@ -1,21 +1,27 @@
-# Security Policy
+# Sicherheitshinweise
 
-## Supported Versions
+Vielen Dank, dass du dich für die Sicherheit von **The Story of Hans** einsetzt! Wir nehmen die Sicherheit unseres Projekts sehr ernst und freuen uns über Hinweise auf potenzielle Sicherheitslücken.
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+## Melden von Sicherheitslücken
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+Wenn du eine Sicherheitslücke findest, bitten wir dich, diese **nicht öffentlich** zu melden. Kontaktiere uns stattdessen bitte über folgende E-Mail-Adresse:
 
-## Reporting a Vulnerability
+**squeeezz.security@gmail.com**
 
-Use this section to tell people how to report a vulnerability.
+Bitte gib in deiner Nachricht so viele Details wie möglich an, damit wir das Problem effizient nachvollziehen und beheben können.
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+## Unser Vorgehen
+
+- Wir bestätigen den Eingang deiner Meldung innerhalb von 72 Stunden.
+- Wir untersuchen die gemeldete Schwachstelle und arbeiten an einer zeitnahen Behebung.
+- Nach erfolgreicher Behebung informieren wir dich, bevor die Details der Lücke veröffentlicht werden.
+
+## Verantwortungsbewusste Offenlegung
+
+Wir bitten dich, keine Details über Sicherheitslücken öffentlich zu teilen, bevor wir eine Lösung bereitgestellt haben. So schützen wir alle Nutzer:innen unseres Projekts.
+
+Vielen Dank für deine Unterstützung!
+
+---
+
+*Letzte Aktualisierung: 30.05.2025*
