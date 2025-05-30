@@ -1,3 +1,0 @@
-# Raumstruktur:
-
-test
