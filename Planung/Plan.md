@@ -66,6 +66,9 @@ attribute: name, beschreibung, wert
 methoden:
 Erledigt:
 
+- setName() - setzt den Namen des Items
+- setBeschreibung() - setzt die Beschreibung des Items
+- setWert() - setzt den Wert des Items
 ---------------------------------------
 Noch zu machen:
 
@@ -73,9 +76,7 @@ Noch zu machen:
 - getBeschreibung() - gibt die Beschreibung des Items zurück
 - getWert() - gibt den Wert des Items zurück
 
-- setName() - setzt den Namen des Items
-- setBeschreibung() - setzt die Beschreibung des Items
-- setWert() - setzt den Wert des Items
+
 
 klasse 6: event.java - dort werden alle events gespeichert mit deren attributen usw.
 attribute: name, beschreibung, typ, auswirkungen
@@ -128,10 +129,11 @@ klasse 9: kampf.java - dort wird der kampf-mechanismus verwaltet
 attribute: lebenspunkte, schaden, schutz
 Erledigt:
 
+- berechneSchaden() - berechnet den Schaden, der im Kampf verursacht wird
 ---------------------------------------
 Noch zu machen:
 - startKampf() - startet einen Kampf zwischen dem Spieler und einem Gegner
-- berechneSchaden() - berechnet den Schaden, der im Kampf verursacht wird
+
 - berechneSchutz() - berechnet den Schutz des Spielers im Kampf
 - checkKampfEnde() - prüft, ob der Kampf zu Ende ist (z.B. ob der Spieler oder der Gegner besiegt wurde)
 - gewinneKampf() - führt die Aktionen aus, wenn der Spieler den Kampf gewinnt (z.B. Erfahrung, Items)
