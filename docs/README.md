@@ -1,5 +1,5 @@
 # The-Story-of-Hans:
-*The English Readme is directly above the normal one*
+*The English Readme is directly under the normal one docs/->README_EN.md*
 The Story of Hans ist ein textbasiertes Open-Source-Rollenspiel, das in einer reichhaltigen Fantasy-Welt spielt.  
 Der Spieler begleitet den Helden Hans auf seiner Reise durch 26 einzigartige Räume, in denen er vielfältige Entscheidungen treffen, ein komplexes, ausdauerbasiertes Kampfsystem meistern, dynamische Ereignisse erleben, Quests mit unterschiedlichen Zielen erfüllen, Gegenstände craften und sammeln sowie Gegner besiegen und im Levelsystem aufsteigen kann.  
 Das Spiel bietet eine tiefgehende Mechanik mit umfangreichem Inventar-, Quest- und Crafting-System, die ein immersives und abwechslungsreiches Spielerlebnis garantieren.
