@@ -7,7 +7,7 @@ import java.util.Map;
 public class Crafting {
     private Map<List<String>, String> recipes;
 
-    public Crafting() {
+    public Crafting() { // Crafting System ist noch nicht implementiert?
         recipes = new HashMap<>();
         // Example recipes: list of input item names to output item name
         recipes.put(List.of("Holz", "Stein"), "Steinbeil");
