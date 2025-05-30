@@ -1,4 +1,5 @@
 # PROJECT DISCONTINUED!!!
+There may be still some bugs and missing features but I officially discontinue the project, main reason is that I view it as finished.
 # The-Story-of-Hans:
 *The English Readme is directly under the normal one docs/->README_EN.md*  
 The Story of Hans ist ein textbasiertes Open-Source-Rollenspiel, das in einer reichhaltigen Fantasy-Welt spielt.  
