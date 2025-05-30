@@ -1,4 +1,5 @@
 # The Story of Hans:
+# BIG UPDATE SOON!! (1.0)
 The Story of Hans is a text-based role-playing open-source project set in a fantasy world.
 We accompany the hero Hans on his journey through various rooms, where he can make decisions, fight battles, find allies, and even discover treasures.
 
